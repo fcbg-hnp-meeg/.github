@@ -1,4 +1,6 @@
-![FCBG logo](https://github.com/fcbg-hnp-meeg/.github/blob/main/images/FCBG.svg)
+<p align="right">
+  <img src="https://github.com/fcbg-hnp-meeg/.github/blob/main/images/FCBG.svg" alt="FCBG logo" width="150"/>
+</p>
 
 The Fondation Campus Biotech Geneva (FCBG) is a non-profit foundation created on 5
 December 2013 by the [Ecole Polytechnique Fédérale de Lausanne
