@@ -10,7 +10,7 @@
       Campus Biotech site.
     </td>
     <td>
-      <img src="https://github.com/fcbg-hnp-meeg/.github/blob/main/images/FCBG.svg" alt="FCBG logo" width="150"/>
+      <img src="https://github.com/fcbg-hnp-meeg/.github/blob/main/images/FCBG.svg" alt="FCBG logo" width="500"/>
     </td>
   </tr>
 </table>
